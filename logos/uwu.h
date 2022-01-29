@@ -1,0 +1,21 @@
+// This was stolen from neofetch
+char *LOGO[] = {
+"             °o*                         ",
+"            .*#o.    .                   ",
+"       .  .°o#o°.   *. *°    .           ",
+"        ° °°oo#O*°  .o°°O°....°          ",
+"     .°°OoOOOoO#OOOooOoOooOooo*°       . ",
+".    °OOO*°°*oOO#######OO*...°*O°      . ",
+"°..*°o##Oo°.°O########O##O°°°oOO°°    .@ ",
+" ..°OO####OO###########OOOOOOOOO. °. ..  ",
+"° ...oO#############OOOOOOOOOOOO°... . ° ",
+" . °. .*###########OoOOOOOOOOOOo.   ..   ",
+"  . ..  °O#######OOOOOOOOOOOOOo.    .°   ",
+"  ° °..  .°oO##OOOOOOOOOOOOOo°      ..   ",
+"    *°..    *OOOOOOOOOOOOoo*.     .@ °   ",
+"   @   o**. .**oooOOOooo**°.  °.     @   ",
+"     OOOo*.     ..°°°°°..     .. .°*     ",
+" @OOOO#O*.                       .°*o**@ ",
+"\t\t\t\t\t  ",
+"\t\t\t\t\t  ",
+};
